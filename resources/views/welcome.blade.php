@@ -34,7 +34,7 @@
 </head>
 <body>
     <div class="card">
-        <h1>Hello, World!</h1>
+        <h1>Hello, StudentInk!</h1>
         <p>Served by Laravel {{ app()->version() }}</p>
     </div>
 </body>
